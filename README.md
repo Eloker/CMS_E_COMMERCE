@@ -20,5 +20,21 @@ Clicboutic
 Avantages|Inconvénients|
 ---------|-------------|
 Prix de base peu élevé|Le nom du site www.nom.clicboutic.com|
-Design modifiable||
+Vente sur facebook|Une assistance qu'il faut payer plus cher|
+De nombreuses options|Design pas si modifiable|
+
+Box E-Commerce
+
+Avantages|Inconvénients|
+---------|-------------|
+Les services de la poste compris |Le nom du site www.nom.surinternet.com|
+De nombreux partenaires||
 De nombreuses options||
+
+Raynette
+
+Avantages|Inconvénients|
+---------|-------------|
+Le nom de domaine compris ||
+Une assistance illimité||
+Un design personnalisable||
