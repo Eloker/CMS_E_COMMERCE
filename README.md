@@ -1,6 +1,3 @@
-CMS_E_COMMERCE
-==============
-
 Etude comparative :
 -------------------
 - 3 services e-commerce (en ligne) : Clicboutic (http://www.clicboutic.com/) / Box e-commerce (http://boxecommerce.laposte.fr/fr/home.aspx) / Raynette (http://www.raynette.fr)
