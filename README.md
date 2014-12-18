@@ -64,4 +64,4 @@ Arborescence de pages :
 - Contact
 
 Menu :
-Accueil |Homme | Femme | Bébé | Contact
+Accueil | Homme | Femme | Bébé | Contact
