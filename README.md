@@ -10,15 +10,7 @@ Etude comparative :
 Clicboutic  |  15 jours       |   19€ HT/mois
 Boxecommerce|  30 jours       |   29,95€ /mois
 Raynette    |  0 jours        |   49€ HT/mois
-Essai gratuit :
-  Clicboutic : 15 jours
-  Boxecommerce : 30 jours
-  Raynette : 0 jours
 
-Premier prix :
-  Clicboutic : 19€ HT/mois
-  Boxecommerce : 29,95€ /mois
-  Raynette : 49€ HT/mois
   
 
 - 3 avantages/ 3 inconvénients
