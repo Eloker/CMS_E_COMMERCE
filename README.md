@@ -43,4 +43,7 @@ Un design personnalisable|Pas plus d'un moyen de paiement et une monnaie si on n
 Contexte :
 ----------
 
-
+- 1 mois après arrivée
+- Demande d'un petite site de e-commerce
+- 20 produits dans 5 catégories
+- Equipe restreinte / faible
