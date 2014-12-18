@@ -28,13 +28,13 @@ Box E-Commerce
 Avantages|Inconvénients|
 ---------|-------------|
 Les services de la poste compris |Le nom du site www.nom.surinternet.com|
-De nombreux partenaires||
-De nombreuses options||
+De nombreux partenaires|Limite de 2000 produits|
+De nombreuses options|Seulement 100 pages de contenu|
 
 Raynette
 
 Avantages|Inconvénients|
 ---------|-------------|
-Le nom de domaine compris ||
-Une assistance illimité||
-Un design personnalisable||
+Le nom de domaine compris|Prix qui grimpe vite avec des options à 9€ minimum|
+Une assistance illimité|Peu de choses dans le prix de base|
+Un design personnalisable|Pas plus d'un moyen de paiement et une monnaie si on ne veut pas payer plus|
