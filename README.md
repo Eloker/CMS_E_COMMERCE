@@ -43,4 +43,25 @@ Contexte :
 - 1 mois après arrivée
 - Demande d'un petite site de e-commerce
 - 20 produits dans 5 catégories
-- Equipe restreinte / faible
+- Equipe restreinte / faible budget
+
+Conception :
+------------
+
+- Paramètres
+- Arborescence / Plan du site
+- Taxonomie de produits (couleur / taille / catégories)
+
+
+Arborescence de pages :
+- Accueil
+- Inscription
+- Suivre la commande
+- Panier > page pour payer > Confirmation
+- Homme > Produits > Taille / Couleur / Prix / Marques / Photos description
+- Femme
+- Bébé
+- Contact
+
+Menu :
+Accueil |Homme | Femme | Bébé | Contact
