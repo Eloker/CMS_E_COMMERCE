@@ -2,6 +2,7 @@ CMS_E_COMMERCE
 ==============
 
 Etude comparative :
+-------------------
 - 3 services e-commerce (en ligne) : Clicboutic (http://www.clicboutic.com/) / Box e-commerce (http://boxecommerce.laposte.fr/fr/home.aspx) / Raynette (http://www.raynette.fr)
 
 
@@ -38,3 +39,8 @@ Avantages|Inconvénients|
 Le nom de domaine compris|Prix qui grimpe vite avec des options à 9€ minimum|
 Une assistance illimité|Peu de choses dans le prix de base|
 Un design personnalisable|Pas plus d'un moyen de paiement et une monnaie si on ne veut pas payer plus|
+
+Contexte :
+----------
+
+
