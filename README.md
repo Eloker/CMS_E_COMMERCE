@@ -14,3 +14,11 @@ Raynette      |  0 jours        |   49€ HT/mois                |  illimité   
   
 
 - 3 avantages/ 3 inconvénients
+
+Clicboutic
+
+Avantages|Inconvénients|
+---------|-------------|
+Prix de base peu élevé|Le nom du site www.nom.clicboutic.com|
+Design modifiable||
+De nombreuses options||
